@@ -1,2 +1,2 @@
-# scrabble
-A scrabble game with greek words
+# Description
+A scrabble game with greek words.
